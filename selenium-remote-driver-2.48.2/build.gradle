@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('selenium-remote-driver-2.48.2.jar'))

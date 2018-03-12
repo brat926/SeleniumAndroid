@@ -1,0 +1,1 @@
+include ':app', ':selenium-remote-driver-2.48.2', ':selenium-java-2.48.2', ':selenium-api-2.48.2', ':selendroid-standalone-0.17.0-with-dependencies (1)'

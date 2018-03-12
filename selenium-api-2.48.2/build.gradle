@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('selenium-api-2.48.2.jar'))
